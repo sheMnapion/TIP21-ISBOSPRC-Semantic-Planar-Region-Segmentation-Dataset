@@ -2,7 +2,9 @@
 This is the repository containing the dataset for the task of Semantic Planar Region
 Segmentation proposed in the paper Image Stitching Based On Semantic Planar Region
 Consensus (abbreviated as ISBOSPRC). 
-- The dataset images (1005 in total) are from ADE20k and can be accessed similarly as in this 
+- The dataset images (1005 in total) are from 
+  [ADE20k](https://groups.csail.mit.edu/vision/datasets/ADE20K/)
+  and can be accessed similarly as in this 
   [repository](https://www.github.com/CSAILVision/semantic-segmentation-pytorch) by using training_sprs.odgt 
   and validation_sprs.odgt.
   We manually relabel the images to contain the semantic planar region segmentation information.
